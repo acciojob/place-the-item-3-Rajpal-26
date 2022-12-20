@@ -1,2 +1,7 @@
-
 /* Your CSS Code here. */
+.items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
